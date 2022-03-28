@@ -77,6 +77,7 @@ nav {
   position: fixed;
   width: 100%;
   top: 0;
+  height:58px;
 }
 nav .mainMenu {
   display: flex;
@@ -98,7 +99,10 @@ nav .mainMenu li a:hover {
 }
 nav .openMenu {
   font-size: 2rem;
-  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
   display: none;
   cursor: pointer;
 }
@@ -107,12 +111,14 @@ nav .mainMenu .closeMenu,
   font-size: 2rem;
   display: none;
   cursor: pointer;
+  height: 
 }
 
 nav .logo {
   margin: 6px;
   font-size: 25px;
 }
+
 @media (max-width: 800px) {
   nav .mainMenu {
     height: 100vh;
@@ -165,6 +171,7 @@ nav .logo {
 }
 
 .resourceBox p {
+  text-align: center;
   margin-top: auto;
   margin-bottom: auto;
   font-size:calc(12px + 0.8vw);
