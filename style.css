@@ -99,10 +99,7 @@ nav .mainMenu li a:hover {
 }
 nav .openMenu {
   font-size: 2rem;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin: 20px;
   display: none;
   cursor: pointer;
 }
