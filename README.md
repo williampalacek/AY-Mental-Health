@@ -59,6 +59,8 @@ Don't forget to give the project a star! Thanks again!
 
 William Palacek - wpala1@ocdsb.ca
 
+Erica Fricker - efric2@ocdsb.ca
+
 Project Link: [https://github.com/williampalacek/AY-Mental-Health](https://github.com/williampalacek/AY-Mental-Health)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
