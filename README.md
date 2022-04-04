@@ -63,6 +63,8 @@ Erica Fricker - efric2@ocdsb.ca
 
 Eric To - eto1@ocdsb.ca
 
+Renato Scotoni - rscot9@ocdsb.ca
+
 Project Link: [https://github.com/williampalacek/AY-Mental-Health](https://github.com/williampalacek/AY-Mental-Health)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
