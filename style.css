@@ -30,6 +30,7 @@ p {
 /*Indented text*/
 .indent {
   margin-left: 15px;
+  margin-right: 15px;
 }
 /*Centered list*/
 .homelist {
@@ -76,7 +77,10 @@ nav .mainMenu li a:hover {
 }
 nav .openMenu {
   font-size: 2rem;
-  margin: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 20px;
+  margin-right: 20px;
   display: none;
   cursor: pointer;
 }
@@ -140,7 +144,7 @@ nav .logo {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 /*Paragraph inside a resource*/
 .resourceBox p {
@@ -158,4 +162,5 @@ nav .logo {
 /*Image in the about us tab.*/
 .aboutusimg {
   display: block;
+  width: 30%;
 }
